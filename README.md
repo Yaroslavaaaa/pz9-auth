@@ -45,16 +45,16 @@
 
 
 ### Регистрация
-<img width="1150" height="702" alt="image" src="https://github.com/user-attachments/assets/7fe17408-b631-4a9c-bec8-3d13c2f3d775" />
+<img width="972" height="597" alt="2025-11-18_17-27-08" src="https://github.com/user-attachments/assets/4b0f5d1c-7a0e-4685-bc6a-c6a8c312e51d" />
 
 ### Повторная попытка регистрации
-<img width="1150" height="895" alt="image" src="https://github.com/user-attachments/assets/36f31f43-e5af-46a9-8910-7b6222ff4d2e" />
+<img width="1131" height="531" alt="2025-11-18_17-44-27" src="https://github.com/user-attachments/assets/f1a8d4a9-dca9-4bab-8d99-a52a6d1e65f8" />
 
 ### Вход с верными данными
-<img width="1184" height="903" alt="image" src="https://github.com/user-attachments/assets/19a49fd6-dc11-45e4-b875-84d59c655c73" />
+<img width="1127" height="620" alt="2025-11-18_17-28-01" src="https://github.com/user-attachments/assets/9ac34954-cd49-44f8-b46b-7c4ab32de3b2" />
 
 ### Вход с неверными данными
-<img width="1227" height="545" alt="image" src="https://github.com/user-attachments/assets/52158d24-ea23-46b9-95bc-ee95f574dfca" />
+<img width="1118" height="568" alt="image" src="https://github.com/user-attachments/assets/dec8e5c1-48df-4c98-989e-26e47dc2e473" />
 
 ### Функция регистрации
 <img width="821" height="828" alt="image" src="https://github.com/user-attachments/assets/771da0b9-c7b4-45de-9ffa-f0b57cdb29e3" />
